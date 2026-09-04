@@ -2,14 +2,15 @@
 
 # 🚀 30-Day DSA Challenge — Java
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-yathin--chelluri-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yathin-chelluri/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yathin--5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yathin-5)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Progress](https://img.shields.io/badge/Day-01%2F30-00C853?style=for-the-badge)]()
 
 **A structured, 30-day journey to build a solid DSA foundation in Java.**
 
-*Started: September 4, 2026 · Practice Platform: LeetCode · Proof of Work: This Repo*
+*Started: September 4, 2026 · Practice Platforms: GeeksforGeeks + HackerRank · Proof of Work: This Repo*
 
 </div>
 
@@ -70,7 +71,7 @@ Each day folder contains:
 |---|---|
 | **Current Day** | Day 1 / 30 |
 | **Problems Solved** | 0 |
-| **LeetCode Active Days** | 0 |
+| **Active Days** | 0 |
 | **Max Streak** | 0 |
 | **Easy / Medium / Hard** | 0 / 0 / 0 |
 
@@ -83,7 +84,7 @@ Each day folder contains:
 | Time | Activity |
 |---|---|
 | 1 hr | Learn the concept |
-| 1.5–2 hrs | Solve problems on LeetCode |
+| 1.5–2 hrs | Solve problems on GFG / HackerRank |
 | 30 min | Review + write notes + commit |
 
 ---
@@ -91,21 +92,22 @@ Each day folder contains:
 ## 📝 Notes Format (per problem)
 
 ```
-Problem:        Two Sum
-LeetCode:       #1
-Pattern:        Hashing
-Approach:       HashMap for O(1) lookup of complement
+Problem:          Two Sum
+Platform:         GFG / HackerRank
+Pattern:          Hashing
+Approach:         HashMap for O(1) lookup of complement
 Time Complexity:  O(n)
 Space Complexity: O(n)
-Difficulty:     Easy
-What I learned: ...
+Difficulty:       Easy
+What I learned:   ...
 ```
 
 ---
 
 ## 🔗 Links
 
-- 🧑‍💻 [LeetCode Profile](https://leetcode.com/u/yathin-chelluri/)
+- 🟢 [GeeksforGeeks](https://www.geeksforgeeks.org/) — DSA problem practice
+- 🟩 [HackerRank](https://www.hackerrank.com/) — Java challenges + certifications
 - 📦 [GitHub](https://github.com/Yathin-5/DSA_java)
 - 📋 [Progress Tracker](./progress.md)
 
