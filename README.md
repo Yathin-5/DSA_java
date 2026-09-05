@@ -6,7 +6,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yathin--5-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yathin-5)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Progress](https://img.shields.io/badge/Day-01%2F30-00C853?style=for-the-badge)]()
+[![Progress](https://img.shields.io/badge/Day-02%2F30-00C853?style=for-the-badge)]()
 
 **A structured, 30-day journey to build a solid DSA foundation in Java.**
 
@@ -69,7 +69,7 @@ Each day folder contains:
 
 | Metric | Status |
 |---|---|
-| **Current Day** | Day 1 / 30 |
+| **Current Day** | Day 2 / 30 |
 | **Problems Solved** | 0 |
 | **Active Days** | 0 |
 | **Max Streak** | 0 |
@@ -115,6 +115,6 @@ What I learned:   ...
 
 <div align="center">
 
-**Day 1 of 30 — Let's go! 💪**
+**Day 2 of 30 — Let's go! 💪**
 
 </div>

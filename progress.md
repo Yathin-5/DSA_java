@@ -6,7 +6,7 @@ GitHub repository: https://github.com/Yathin-5/DSA_java
 ## Summary
 
 - Start date: 2026-09-04
-- Current day: Day 1
+- Current day: Day 2
 - Problems solved: 0
 - Total target: 100–120
 
@@ -15,7 +15,7 @@ GitHub repository: https://github.com/Yathin-5/DSA_java
 | Day | Date | Topic | Problems solved | Committed to GitHub? |
 |---:|---|---|---:|---|
 | 1 | 2026-09-04 | Foundations | 0/4–5 | Yes |
-| 2 | 2026-09-05 | Arrays | — | — |
+| 2 | 2026-09-05 | Arrays | 0/4 | Yes |
 | 3 | 2026-09-06 | Hashing | — | — |
 | 4 | 2026-09-07 | Arrays + Hashing | — | — |
 | 5 | 2026-09-08 | Two Pointers | — | — |
@@ -50,6 +50,15 @@ GitHub repository: https://github.com/Yathin-5/DSA_java
 - Topic: Foundations
 - Start date: 2026-09-04
 - Problems solved: 0/4–5
+- What clicked:
+- What's still fuzzy:
+- Tomorrow:
+
+## Day 2 Reflection
+
+- Topic: Arrays
+- Date: 2026-09-05
+- Problems solved: 0/4
 - What clicked:
 - What's still fuzzy:
 - Tomorrow:
